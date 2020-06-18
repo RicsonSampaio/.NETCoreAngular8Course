@@ -23,7 +23,11 @@ bld/
 [Ll]og/
 
 # Visual Studio cache/options directory
+.vs/*
 .vs/StudyNETCoreAngular
+vs/
+D:/CodeStudy/NetCoreAPI/.vs
+D:/CodeStudy/NetCoreAPI/.vs/*
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
